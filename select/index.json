@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ステラ",
+  "base_artist": "日野森志歩",
+  "createdAt": "2026-02-27T12:12:05.574384Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ステラ",
+      "artist": "TRUE",
+      "has_synced": true,
+      "path": "select/01_ステラ_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ステラ (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/02_ステラ_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ステラ",
+      "artist": "Leo/need feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク",
+      "has_synced": true,
+      "path": "select/03_ステラ_Leo_need_feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ステラ (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/04_ステラ_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ステラ - Stella (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/05_ステラ_-_Stella_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ステラ",
+      "artist": "MUCC",
+      "has_synced": true,
+      "path": "select/06_ステラ_MUCC.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ステラ",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/07_ステラ_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ステラ・ドライブ",
+      "artist": "七瀬佳乃(CV:青山吉能)",
+      "has_synced": true,
+      "path": "select/08_ステラ・ドライブ_七瀬佳乃(CV_青山吉能).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ステラ (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
+      "artist": "Leo",
+      "has_synced": true,
+      "path": "select/09_ステラ_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ステラ - Stella (feat. 星乃一歌",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/10_ステラ_-_Stella_(feat._星乃一歌_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ステラ",
+      "artist": "Leo/need (野口瑠璃子, 礒部花凛, 上田麗奈, 中島由貴) & 初音ミク",
+      "has_synced": true,
+      "path": "select/11_ステラ_Leo_need_(野口瑠璃子,_礒部花凛,_上田麗奈,_中島由貴)_&_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ステラ",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/12_ステラ_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ステラ (instrumental)",
+      "artist": "Leo/need (野口瑠璃子, 礒部花凛, 上田麗奈, 中島由貴) & 初音ミク",
+      "has_synced": true,
+      "path": "select/13_ステラ_(instrumental)_Leo_need_(野口瑠璃子,_礒部花凛,_上田麗奈,_中島由貴)_&_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ステラ",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/14_ステラ_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ステラ (instrumental)",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/15_ステラ_(instrumental)_Leo_need.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ステラ",
+      "artist": "日野森志歩",
+      "has_synced": false,
+      "path": "select/pl_01_ステラ_日野森志歩.txt"
+    }
+  ]
+}
